@@ -1,0 +1,13 @@
+body {
+    background-color: palevioletred;
+}
+
+.about-image {
+    border-radius: 10px;
+    height: 200px;
+    border: 1px solid black; 
+}
+
+.center {
+    text-align: center;
+}
